@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Story Here</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="/bootstrap.min.css" rel="stylesheet">
+    <link href="/bootstrap-responsive.css" rel="stylesheet"> 
+    <link href="/bootstrap-responsive.min.css" rel="stylesheet"> 
+    <link href="/style.css" rel="stylesheet">  
+    <script src="/bootstrap.min.js"></script>
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">Story Here</a>
+        </div>
+      </div>
+    </div>
+
+      <div class="container">
+        <div class="span12">
+          <header>  
+            <hgroup>  
+              <h1><a href="/">Story Here</a></h1>  
+              <h2></h2>  
+            </hgroup>  
+          </header>
+        </div>  
+        
+        <div>  
+          <% if flash[:notice] %>
+            <div class="span3 alert alert-error">   
+              <p><%= flash[:notice] %>  
+            </div>
+          <% end %>         
+          <% if flash[:error] %>  
+            <div class="span3 alert alert-error"> 
+              <p><%= flash[:error] %>  
+            </div>
+          <% end %>  
+          <%= yield %> 
+        </div>     
+        
+        <div class="span12">
+          <footer>  
+            <p><small>An app by <a href="http://aimeemarieknight.com">Aimee Knight & Eric Boggs</a>.</small></p>  
+          </footer>  
+        </div>
+      </div>
+
+  </body>
+</html>
