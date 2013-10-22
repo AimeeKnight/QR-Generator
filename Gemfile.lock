@@ -45,6 +45,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  prawn
   prawn-qrcode
   rack-test
   rspec
