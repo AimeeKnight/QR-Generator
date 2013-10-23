@@ -8,12 +8,13 @@ require 'prawn/qrcode'
 require './env' if File.exists?('env.rb')
 enable :sessions
 
-get '/' do    
+get '/' do  
 	erb :index
 end  
 
 post '/' do
-	qrcode_content = params[url].to_s
+	qrcode_content = params[:url].to_s
+	puts qrcode_content
 	qrcode = RQRCode::QRCode.new(qrcode_content, :level=>:h, :size => 5)
 
 	# Render a prepared QRCode at he cursor position
