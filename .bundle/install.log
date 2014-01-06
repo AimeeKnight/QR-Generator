@@ -1,0 +1,22 @@
+# Logfile created on 2014-01-06 10:47:24 -0600 by logger.rb/41954
+I, [2014-01-06T10:47:24.372826 #4991]  INFO -- : 0:  Ascii85 (1.0.2) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/Ascii85-1.0.2.gemspec
+I, [2014-01-06T10:47:25.271560 #4991]  INFO -- : 0:  afm (0.2.0) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/afm-0.2.0.gemspec
+I, [2014-01-06T10:47:27.023282 #4991]  INFO -- : 0:  diff-lcs (1.2.4) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/diff-lcs-1.2.4.gemspec
+I, [2014-01-06T10:47:27.923957 #4991]  INFO -- : 0:  hashery (2.1.1) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/hashery-2.1.1.gemspec
+I, [2014-01-06T10:47:28.686713 #4991]  INFO -- : 0:  ruby-rc4 (0.1.5) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/ruby-rc4-0.1.5.gemspec
+I, [2014-01-06T10:47:29.780084 #4991]  INFO -- : 0:  ttfunk (1.0.3) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/ttfunk-1.0.3.gemspec
+I, [2014-01-06T10:47:31.529776 #4991]  INFO -- : 0:  pdf-reader (1.3.3) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/pdf-reader-1.3.3.gemspec
+I, [2014-01-06T10:47:33.940250 #4991]  INFO -- : 0:  prawn (0.12.0) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/prawn-0.12.0.gemspec
+I, [2014-01-06T10:47:35.225890 #4991]  INFO -- : 0:  rqrcode (0.4.2) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/rqrcode-0.4.2.gemspec
+I, [2014-01-06T10:47:36.126010 #4991]  INFO -- : 0:  prawn-qrcode (0.2.0) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/prawn-qrcode-0.2.0.gemspec
+I, [2014-01-06T10:47:37.923159 #4991]  INFO -- : 0:  rack (1.5.2) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/rack-1.5.2.gemspec
+I, [2014-01-06T10:47:39.130907 #4991]  INFO -- : 0:  rack-protection (1.5.0) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/rack-protection-1.5.0.gemspec
+I, [2014-01-06T10:47:40.309126 #4991]  INFO -- : 0:  rack-test (0.6.2) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-06T10:47:42.585394 #4991]  INFO -- : 0:  rspec-core (2.14.6) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/rspec-core-2.14.6.gemspec
+I, [2014-01-06T10:47:43.991632 #4991]  INFO -- : 0:  rspec-expectations (2.14.3) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/rspec-expectations-2.14.3.gemspec
+I, [2014-01-06T10:47:45.381426 #4991]  INFO -- : 0:  rspec-mocks (2.14.4) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/rspec-mocks-2.14.4.gemspec
+I, [2014-01-06T10:47:46.112322 #4991]  INFO -- : 0:  rspec (2.14.1) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/rspec-2.14.1.gemspec
+I, [2014-01-06T10:47:47.374500 #4991]  INFO -- : 0:  tilt (1.4.1) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/tilt-1.4.1.gemspec
+I, [2014-01-06T10:47:48.691285 #4991]  INFO -- : 0:  sinatra (1.4.3) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/sinatra-1.4.3.gemspec
+I, [2014-01-06T10:47:49.943450 #4991]  INFO -- : 0:  sinatra-flash (0.3.0) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@sinatra_demo/specifications/sinatra-flash-0.3.0.gemspec
+I, [2014-01-06T10:47:49.944384 #4991]  INFO -- : 0:  bundler (1.5.1) from /Users/jimmyknight/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
